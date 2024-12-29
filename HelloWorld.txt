@@ -11,4 +11,3 @@ Fifth commit
 some changes
 
 changes from new branch
-
