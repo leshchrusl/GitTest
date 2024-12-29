@@ -9,5 +9,8 @@ Fourth commit
 Fifth commit
 
 some changes
+<<<<<<< HEAD
 
 another changes
+=======
+>>>>>>> 85938e925df7d046959fbe3be1dbf468531c9a24
